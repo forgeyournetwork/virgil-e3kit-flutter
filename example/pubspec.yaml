@@ -9,7 +9,7 @@ dependencies:
     sdk: flutter
   virgil_e3kit:
     path: ../
-  http: ^0.13.1
+  http: ^0.13.3
 
 dev_dependencies:
   flutter_test:
